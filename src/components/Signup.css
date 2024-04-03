@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .custom_h3 {
+    font-size: 14px;
+  }
+
+  .custom_div {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .custom_text {
+    font-size: 12px;
+  }
+}
